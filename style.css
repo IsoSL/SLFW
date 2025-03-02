@@ -429,6 +429,11 @@ main {
     border-bottom: none;
 }
 
+.season-title {
+    font-size: 2rem; /* Make it bigger */
+    font-weight: bold; /* Optional: Make it stand out */
+}
+
 .chapter-number, .episode-number {
     font-weight: 600;
     color: var(--primary-color);

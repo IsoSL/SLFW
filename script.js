@@ -65,29 +65,24 @@ document.addEventListener('DOMContentLoaded', function() {
     
     // News filters functionality
     if (newsFilters.length > 0) {
-        newsFilters.forEach(filter => {
-            filter.addEventListener('click', function() {
-                // Remove active class from all filters
-                newsFilters.forEach(f => f.classList.remove('active'));
-                // Add active class to clicked filter
-                this.classList.add('active');
-                
-                const category = this.getAttribute('data-category');
-                
-                // Show loading spinner
-                document.querySelector('.loading-spinner').style.display = 'flex';
-                
-                // Simulate loading time
-                setTimeout(() => {
-                    newsCards.forEach(card => {
-                        const cardCategory = card.querySelector('.news-category').textContent.toLowerCase();
-                        
-                        if (category === 'all' || cardCategory === category.toLowerCase()) {
-                            card.style.display = 'block';
-                        } else {
-                            card.style.display = 'none';
-                        }
-                    });
+        let itemsPerPage = 6;
+        let currentCategory = 'all';
+    
+        function filterNews(category) {
+            currentCategory = category;
+            let visibleCount = 0;
+
+            newsCards.forEach(card => {
+                const cardCategory = card.querySelector('.news-category').textContent.toLowerCase();
+                const matchesCategory = category === 'all' || cardCategory === category.toLowerCase();
+            
+                if (matchesCategory && visibleCount < itemsPerPage) {
+                    card.style.display = 'block';
+                    visibleCount++;
+                } else {
+                    card.style.display = 'none';
+                }
+            });
                     
                     // Hide loading spinner
                     document.querySelector('.loading-spinner').style.display = 'none';

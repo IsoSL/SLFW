@@ -411,9 +411,9 @@ main {
 }
 
 .chapters-display, .episodes {
-    height: 400px;
-    overflow-y: auto;
-    padding-right: 1rem;
+    height: auto; /* Let it expand naturally */
+    max-height: none; /* Ensure no max limit */
+    overflow-y: hidden; /* Hide the scrollbar */
 }
 
 .chapter, .episode {

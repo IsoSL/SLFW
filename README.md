@@ -3,5 +3,5 @@
 <hr style="border: 1px solid #66ccff;">
 
 <a href="https://slfw.vercel.app/">
-  <img src="https://github.com/user-attachments/assets/aacc9467-d5d4-419c-a942-ec06f40b41a1" alt="Logo (1)" width="75">
+  <img src="https://github.com/user-attachments/assets/be70b48b-dc98-4a4c-a399-9f05e5dfdf1b" alt="Logo (1)" width="75">
 </a>

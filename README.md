@@ -28,7 +28,7 @@ I'm a passionate web developer and designer with a deep love for anime, especial
 ---
 
 ## 📌 Featured Project: **Solo Leveling Fanpage**  
-🔗 **[Check it out!](#)** *[https://slfw.vercel.app/]*  
+🔗 **[Check it out!](#)** *([https://slfw.vercel.app/])*  
 A **fully responsive** and **interactive fanpage** dedicated to the world of **Solo Leveling**! Features include:  
 ✔ Dynamic navigation with dropdowns  
 ✔ Themed dark UI  

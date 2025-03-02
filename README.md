@@ -1,12 +1,12 @@
-# Hi there, I'm [Your Name] 👋  
+# Hi there, I'm Iso 👋  
 
 ## 🌟 About Me  
 
-I'm a passionate web developer and designer with a deep love for anime, especially **Solo Leveling**! I enjoy creating sleek, interactive websites and experimenting with front-end and back-end technologies. My goal is to continuously improve my skills and build engaging web experiences.  
+I'm a passionate web developer and designer with a deep love for anime, especially **Solo Leveling**. I enjoy creating sleek, interactive websites and experimenting with front-end and back-end technologies. My goal is to continuously improve my skills and build engaging web experiences.  
 
 🚀 I’m always open to new projects and collaborations.  
 🎨 I specialize in UI/UX design and interactive web development.  
-🎮 I love gaming, anime, and creating fandom-based projects.  
+🎮 I love gaming, anime, and creating fandom-based projects.
 
 ---
 
@@ -38,15 +38,13 @@ A **fully responsive** and **interactive fanpage** dedicated to the world of **S
 
 ## 📈 GitHub Stats  
 
-![Your GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=tokyonight)  
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=tokyonight)  
+![Your GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=IsoSL&theme=tokyonight)  
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=IsoSL&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IsoSL&layout=compact&theme=tokyonight)  
 
 ---
 
 ## 📫 Reach Me  
-📧 Email: **your.email@example.com**  
-🐦 Twitter: **[@yourhandle](#)**  
-💼 LinkedIn: **[Your Profile](#)**  
+📧 Email: **isocs2@gmail.com**
 
-🔥 Let's build something awesome together! 🚀  
+🔥 Let's build something awesome together. 🚀  
